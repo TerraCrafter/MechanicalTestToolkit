@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7391000-7292-49d0-a064-800812e2fe07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MechanicalTestToolkit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Examples/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Examples/example_creep_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/Analysis/Creep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/Analysis/Creep_Runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/Analysis/Stress_Strain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/Analysis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/Batch/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/Ingestion/Creep_Ingestion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/Ingestion/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/Plotting/Creep_Plotter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/Plotting/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/Reporting/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/Utilities/Creep_GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/Utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Toolkit/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3I5Xz9HbxBxFAXpPQJ71RF3JX4S" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Creep_GUI.executor": "Run",
+    "Python.Creep_Runner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": ""
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Creep_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MechanicalTestToolkit" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Toolkit/Utilities" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Toolkit/Utilities/Creep_GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Creep_GUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7391000-7292-49d0-a064-800812e2fe07" name="Changes" comment="" />
+      <created>1787055662647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787055662647</updated>
+      <workItem from="1787055663664" duration="6090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MechanicalTestToolkit$Creep_Runner.coverage" NAME="Creep_Runner Coverage Results" MODIFIED="1787059979862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/Analysis" />
+    <SUITE FILE_PATH="coverage/MechanicalTestToolkit$Creep_GUI.coverage" NAME="Creep_GUI Coverage Results" MODIFIED="1787061620479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Toolkit/Utilities" />
+  </component>
+</project>
