@@ -1,0 +1,1 @@
+This project aims to develop a fully functional testing suite for mechanical testing of all kinds. Initially, I will be focusing primarily on Creep and Stress-Rupture as I work with this on a daily basis. I will then expand it into tensile testing, fatigue, and other testing methods commonly used.
